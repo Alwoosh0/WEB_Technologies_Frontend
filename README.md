@@ -1,6 +1,7 @@
 # Assignment #1. WEB Technologies
 **Name:** Almansur Maxym
 **Group:** IT-2501
+**Project URL:** https://alwoosh0.github.io/WEB_Technologies_Frontend/
 
 ---
 
@@ -77,6 +78,9 @@
 
 ### Step 20. Float and Clear
 ![Step 20](step20.png)
+
+### Step 21. Publish Your First Website
+![Step 21](step21.png)
 
 ---
 
