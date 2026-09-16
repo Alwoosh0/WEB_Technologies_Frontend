@@ -42,7 +42,10 @@
 
 ## Part 3. Introduction to CSS
 
-### Step 9 & 10. Intro to CSS & Inline CSS
+### Step 9. Intro to CSS
+![Step 9](step9.png)
+
+### Step 10. Inline CSS
 ![Step 10](step10.png)
 
 ### Step 11. Internal CSS
